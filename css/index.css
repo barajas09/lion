@@ -1,0 +1,19 @@
+:root {
+  --white: #fffffe;
+  --black: #333333;
+
+}
+
+body {
+  color: var(--black);
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url("/images/pexels-cátia-matos-1072179.jpg");
+}
+
+.bg-black-211 {
+  background-color: #211f1f;
+}
+
+.text-12xl {
+  font-size: 12rem;
+}
